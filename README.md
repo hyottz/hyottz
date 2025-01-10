@@ -1,15 +1,12 @@
-# 👋 Welcome to My GitHub!
-
 Hi, I'm **Hyoju Ahn**!  
-I'm passionate about **Computer Vision**, **Multimodal AI**, and love working on innovative projects that solve real-world problems. 🚀  
+I'm passionate about **Computer Vision** and **Multimodal AI**, and I’m eager to delve into diverse, cutting-edge AI fields that have the potential to make a meaningful impact and transform people's lives. 
 
-
-## 💼 About Me
+### About Me
 - 🎓 Currently studying **Artificial Intelligence** at **Sejong University**  
-- 📫 Reach me: **[hyoxdo0717@gmail.com](mailto:hyoxdo0717@gmail.com)**  
+- 👀 Reach me: **[hyoxdo0717@gmail.com](mailto:hyoxdo0717@gmail.com)**  
 
 
-## 🛠️ Tech Stack
+### Tech Stack
 - **Programming Languages:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) 
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat)  
@@ -26,5 +23,4 @@ Check out my portfolio for detailed project showcases and research work:
 👉 **[Portfolio](https://www.notion.so/9da33dd8be754c55a555748d2d4cd72f?pvs=4)**  
 
 
-
-### Thanks for visiting! Feel free to connect. 😊
+### Thanks for visiting! Feel free to connect.
