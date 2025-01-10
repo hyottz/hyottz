@@ -1,12 +1,13 @@
 Hi, I'm **Hyoju Ahn**!  
-I'm passionate about **Computer Vision** and **Multimodal AI**, and I’m eager to delve into diverse, cutting-edge AI fields that have the potential to make a meaningful impact and transform people's lives. 
+I'm passionate about **Computer Vision** and **Multimodal AI**, and I’m eager to delve into diverse, cutting-edge AI fields that have the potential to make a meaningful impact and transform people's lives. 🚀
 
-### <span style="color:#FF6347;">About Me</span>
+
+### About Me
 - 🎓 Currently studying **Artificial Intelligence** at **Sejong University**  
 - 👀 Reach me: **[hyoxdo0717@gmail.com](mailto:hyoxdo0717@gmail.com)**  
 
 
-### <span style="color:#20B2AA;">Tech Stack</span>
+### Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-4B8BBE?logo=python&logoColor=white&style=for-the-badge" alt="Python" />
   <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" alt="C" />
@@ -18,7 +19,7 @@ I'm passionate about **Computer Vision** and **Multimodal AI**, and I’m eager 
 </div>  
 
 
-### <span style="color:#9370DB;">Portfolio</span> 
+### Portfolio
 Check out my portfolio for detailed project and research work: **[Portfolio](https://www.notion.so/9da33dd8be754c55a555748d2d4cd72f?pvs=4)**  
 
 
