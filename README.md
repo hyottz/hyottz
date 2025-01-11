@@ -3,7 +3,7 @@ I'm passionate about **Computer Vision** and **Multimodal AI**, and I’m eager 
 
 ### ![About Me](https://img.shields.io/badge/About%20Me-FFB6C1?style=for-the-badge&logo=person&logoColor=white)
 - 🎓 Currently studying **Artificial Intelligence** at **Sejong University**  
-- 👀 Reach me: **[hyoxdo0717@gmail.com](mailto:hyoxdo0717@gmail.com)**
+- 👀 Reach me: [hyoxdo0717@gmail.com](mailto:hyoxdo0717@gmail.com)
       
 
 
